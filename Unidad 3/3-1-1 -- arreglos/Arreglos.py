@@ -3,5 +3,5 @@ matriz = [
     [4,5,6]
 ]
 
-print(matriz)
-print(matriz[0][1])
+print(matriz[0][2])
+#print(matriz)
